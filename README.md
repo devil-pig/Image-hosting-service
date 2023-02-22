@@ -1,2 +1,2 @@
 # Image-hosting-service
-图床
+# 图床
